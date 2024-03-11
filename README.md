@@ -15,7 +15,7 @@ There are more functions and possibly a few more features that I'd like to add t
 
 ## To Do
 
-There is a project page for this on GitHub where you can view a beautiful Kanban board view of things that need to be done, features that need to be added, and ideas that need to be explored and evaluated.
+There is a [project page for this on GitHub](https://github.com/users/GeauxWeisbeck4/projects/11) where you can view a beautiful Kanban board view of things that need to be done, features that need to be added, and ideas that need to be explored and evaluated.
 
 Here is a brief rundown of a few things that are of the utmost importance right now:
 
